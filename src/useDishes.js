@@ -19,7 +19,7 @@ export function useDishes(query) {
             { signal: controller.signal }
           );
           if (!res.ok)
-            throw new Error("Something went wrong while fetching movies");
+            throw new Error("Something went wrong while fetching dish");
           const data = await res.json();
 
           if (!data.Response === "False") {
