@@ -13,3 +13,7 @@
 ![image description](https://github.com/RicardoMSCarvalho/Taste2Good/blob/master/Search.PNG?raw=true)
 
 ![image description](https://github.com/RicardoMSCarvalho/Taste2Good/blob/master/AddedFav.PNG?raw=true)
+
+
+https://github.com/user-attachments/assets/09e8dfbb-2ca7-4288-a718-61a3cd136f8b
+
